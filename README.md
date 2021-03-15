@@ -1,1 +1,1 @@
-# strark
+# stark
